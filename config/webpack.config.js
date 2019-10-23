@@ -520,7 +520,7 @@ module.exports = function(webpackEnv) {
                       javascriptEnabled: true,
                       modules: false,
                       modifyVars:{
-                        "@primary-color":"#f9c700"
+                        "@primary-color":"#6495ED"
                       }
                     }
                   }],
